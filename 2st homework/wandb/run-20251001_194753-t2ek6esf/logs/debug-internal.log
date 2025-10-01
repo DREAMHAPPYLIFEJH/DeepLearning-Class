@@ -1,0 +1,18 @@
+{"time":"2025-10-01T19:47:53.5075746+09:00","level":"INFO","msg":"stream: starting","core version":"0.22.1"}
+{"time":"2025-10-01T19:47:55.4237146+09:00","level":"INFO","msg":"stream: created new stream","id":"t2ek6esf"}
+{"time":"2025-10-01T19:47:55.4237146+09:00","level":"INFO","msg":"handler: started","stream_id":"t2ek6esf"}
+{"time":"2025-10-01T19:47:55.4249916+09:00","level":"INFO","msg":"stream: started","id":"t2ek6esf"}
+{"time":"2025-10-01T19:47:55.4249916+09:00","level":"INFO","msg":"writer: started","stream_id":"t2ek6esf"}
+{"time":"2025-10-01T19:47:55.4249916+09:00","level":"INFO","msg":"sender: started","stream_id":"t2ek6esf"}
+{"time":"2025-10-01T19:47:56.0515872+09:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":37}
+{"time":"2025-10-01T19:47:56.1475518+09:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":36}
+{"time":"2025-10-01T19:48:11.0661583+09:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":4635}
+{"time":"2025-10-01T19:48:11.1544824+09:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":27}
+{"time":"2025-10-01T19:48:26.0641153+09:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":8907}
+{"time":"2025-10-01T19:48:26.1941919+09:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":45}
+{"time":"2025-10-01T19:48:27.2847082+09:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run metadata","runtime_seconds":0.6683016}],"total_operations":1}}
+{"time":"2025-10-01T19:48:28.0047128+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-10-01T19:48:28.2814702+09:00","level":"INFO","msg":"stream: closing","id":"t2ek6esf"}
+{"time":"2025-10-01T19:48:28.2814702+09:00","level":"INFO","msg":"handler: closed","stream_id":"t2ek6esf"}
+{"time":"2025-10-01T19:48:28.2814702+09:00","level":"INFO","msg":"sender: closed","stream_id":"t2ek6esf"}
+{"time":"2025-10-01T19:48:28.2814702+09:00","level":"INFO","msg":"stream: closed","id":"t2ek6esf"}

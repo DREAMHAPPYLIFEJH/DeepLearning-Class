@@ -1,0 +1,11 @@
+2025-10-01 19:40:38,506 INFO    MainThread:6644 [wandb_init.py:setup_run_log_directory():705] Logging user logs to c:\Users\as990\link_dl\_04_your_code\2st homework\wandb\run-20251001_194038-fkpivzva\logs\debug.log
+2025-10-01 19:40:38,506 INFO    MainThread:6644 [wandb_init.py:setup_run_log_directory():706] Logging internal logs to c:\Users\as990\link_dl\_04_your_code\2st homework\wandb\run-20251001_194038-fkpivzva\logs\debug-internal.log
+2025-10-01 19:40:38,506 INFO    MainThread:6644 [wandb_init.py:init():832] calling init triggers
+2025-10-01 19:40:38,506 INFO    MainThread:6644 [wandb_init.py:init():837] wandb.init called with sweep_config: {}
+config: {'epochs': 1000, 'batch_size': 16, 'learning_rate': 0.001, 'n_hidden_unit_list': [20, 20], '_wandb': {}}
+2025-10-01 19:40:38,507 INFO    MainThread:6644 [wandb_init.py:init():880] starting backend
+2025-10-01 19:40:38,507 INFO    MainThread:6644 [wandb_init.py:init():883] sending inform_init request
+2025-10-01 19:40:38,509 INFO    MainThread:6644 [wandb_init.py:init():891] backend started and connected
+2025-10-01 19:40:38,514 INFO    MainThread:6644 [wandb_run.py:_label_probe_notebook():1330] probe notebook
+2025-10-01 19:40:38,515 INFO    MainThread:6644 [wandb_init.py:init():961] updated telemetry
+2025-10-01 19:40:38,558 INFO    MainThread:6644 [wandb_init.py:init():985] communicating run to backend with 90.0 second timeout

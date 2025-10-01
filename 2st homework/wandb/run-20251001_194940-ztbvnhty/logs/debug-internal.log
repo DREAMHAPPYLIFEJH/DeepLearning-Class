@@ -1,0 +1,18 @@
+{"time":"2025-10-01T19:49:40.4975029+09:00","level":"INFO","msg":"stream: starting","core version":"0.22.1"}
+{"time":"2025-10-01T19:49:42.5427501+09:00","level":"INFO","msg":"stream: created new stream","id":"ztbvnhty"}
+{"time":"2025-10-01T19:49:42.5427501+09:00","level":"INFO","msg":"handler: started","stream_id":"ztbvnhty"}
+{"time":"2025-10-01T19:49:42.5446396+09:00","level":"INFO","msg":"stream: started","id":"ztbvnhty"}
+{"time":"2025-10-01T19:49:42.5446396+09:00","level":"INFO","msg":"sender: started","stream_id":"ztbvnhty"}
+{"time":"2025-10-01T19:49:42.5446396+09:00","level":"INFO","msg":"writer: started","stream_id":"ztbvnhty"}
+{"time":"2025-10-01T19:49:43.1611572+09:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":37}
+{"time":"2025-10-01T19:49:43.3490073+09:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":46}
+{"time":"2025-10-01T19:49:58.1450738+09:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":4220}
+{"time":"2025-10-01T19:49:58.2244697+09:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":24}
+{"time":"2025-10-01T19:50:13.1505184+09:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":8584}
+{"time":"2025-10-01T19:50:13.304598+09:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":51}
+{"time":"2025-10-01T19:50:15.0320349+09:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run metadata","runtime_seconds":0.0031552}],"total_operations":1}}
+{"time":"2025-10-01T19:50:15.7984827+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-10-01T19:50:16.07296+09:00","level":"INFO","msg":"stream: closing","id":"ztbvnhty"}
+{"time":"2025-10-01T19:50:16.07296+09:00","level":"INFO","msg":"handler: closed","stream_id":"ztbvnhty"}
+{"time":"2025-10-01T19:50:16.07296+09:00","level":"INFO","msg":"sender: closed","stream_id":"ztbvnhty"}
+{"time":"2025-10-01T19:50:16.07296+09:00","level":"INFO","msg":"stream: closed","id":"ztbvnhty"}

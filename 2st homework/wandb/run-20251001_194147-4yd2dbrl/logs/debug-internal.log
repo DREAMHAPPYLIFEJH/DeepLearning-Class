@@ -1,0 +1,16 @@
+{"time":"2025-10-01T19:41:49.5931596+09:00","level":"INFO","msg":"stream: starting","core version":"0.22.1"}
+{"time":"2025-10-01T19:41:51.339848+09:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.29.5.86:56625->35.186.228.49:443: wsarecv: An existing connection was forcibly closed by the remote host."}
+{"time":"2025-10-01T19:41:53.8781956+09:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.29.5.86:59200->35.186.228.49:443: wsarecv: An existing connection was forcibly closed by the remote host."}
+{"time":"2025-10-01T19:41:58.9263643+09:00","level":"INFO","msg":"stream: created new stream","id":"4yd2dbrl"}
+{"time":"2025-10-01T19:41:58.9263643+09:00","level":"INFO","msg":"handler: started","stream_id":"4yd2dbrl"}
+{"time":"2025-10-01T19:41:58.9284766+09:00","level":"INFO","msg":"stream: started","id":"4yd2dbrl"}
+{"time":"2025-10-01T19:41:58.9284766+09:00","level":"INFO","msg":"writer: started","stream_id":"4yd2dbrl"}
+{"time":"2025-10-01T19:41:58.9284766+09:00","level":"INFO","msg":"sender: started","stream_id":"4yd2dbrl"}
+{"time":"2025-10-01T19:42:14.6849519+09:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":2362}
+{"time":"2025-10-01T19:42:14.7256366+09:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":10}
+{"time":"2025-10-01T19:42:18.2512129+09:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run metadata","runtime_seconds":0.0034937}],"total_operations":1}}
+{"time":"2025-10-01T19:42:19.0112602+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-10-01T19:42:19.3182979+09:00","level":"INFO","msg":"stream: closing","id":"4yd2dbrl"}
+{"time":"2025-10-01T19:42:19.3182979+09:00","level":"INFO","msg":"handler: closed","stream_id":"4yd2dbrl"}
+{"time":"2025-10-01T19:42:19.3182979+09:00","level":"INFO","msg":"sender: closed","stream_id":"4yd2dbrl"}
+{"time":"2025-10-01T19:42:19.3182979+09:00","level":"INFO","msg":"stream: closed","id":"4yd2dbrl"}
